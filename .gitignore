@@ -15,7 +15,7 @@ pnpm-debug.log*
 
 # Editor directories and files
 .idea
-/ProjectDemo-Frontend/.vscode
+#.vscode
 .vs
 *.suo
 *.ntvs*
