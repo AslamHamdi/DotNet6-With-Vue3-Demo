@@ -20,7 +20,7 @@ pnpm-debug.log*
 *.suo
 *.ntvs*
 *.njsproj
-*.sln
+#*.sln
 *.sw?
 
 /ProjectDemo-Backend/obj
