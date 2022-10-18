@@ -1,15 +1,15 @@
 <template>
     <div class="post">
         <div v-if="loading" class="loading">
-            Loading... Please refresh once the ASP.NET backend has started. See <a href="https://aka.ms/jspsintegrationvue">https://aka.ms/jspsintegrationvue</a> for more details.
+            Loading... Please refresh once the ASP.NET backend hasss started. See <a href="https://aka.ms/jspsintegrationvue">https://aka.ms/jspsintegrationvue</a> for more details.
         </div>
 
         <div v-if="post" class="content">
             <table>
                 <thead>
                     <tr>
-                        <th>Date</th>
-                        <th>Temp. (C)</th>
+                        <th>Datesss</th>
+                        <th>Temps. (C)</th>
                         <th>Temp. (F)</th>
                         <th>Summary</th>
                     </tr>
