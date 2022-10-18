@@ -1,7 +1,10 @@
 <Project Sdk="Microsoft.VisualStudio.JavaScript.Sdk/0.5.26-alpha">
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>19040963-2358-461f-8be5-1e8eaf78583a</ProjectGuid>
+  </PropertyGroup>
   <PropertyGroup>
     <StartupCommand>npm run serve</StartupCommand>
-  <JavaScriptTestRoot>.\</JavaScriptTestRoot>
+    <JavaScriptTestRoot>.\</JavaScriptTestRoot>
     <JavaScriptTestFramework>Jest</JavaScriptTestFramework>
   </PropertyGroup>
 </Project>
